@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PDFs generados por los scripts de visualización
+jarvis_pasos.pdf
+quickhull_pasos.pdf
+graham_pasos.pdf
+incremental_directo.pdf
+incremental_preorden.pdf
+dc_fusion.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+# Dependencias necesarias ÚNICAMENTE para los scripts de visualización
+# (carpeta visualizacion_figuras/).
+#
+# El anexo de implementación (implementacion_computacional/envolvente_convexa.py)
+# se ejecuta con la biblioteca estándar de Python y no requiere ninguna de estas.
+
+numpy
+matplotlib
